@@ -10,7 +10,7 @@
 
 <body>
 
-<h1>Ana María Barrera</h1>
+
 <br />
 <hr />
 <a class="boton_de_contacto" target="_blank" href="https://join.skype.com/invite/jF1G80ZXSp3B">Contactar Por Skype</a>
